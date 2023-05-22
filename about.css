@@ -1,0 +1,14 @@
+
+@media(max-width: 480px){
+    .aboutimg{
+        height:5rem;
+        width: 20rem;
+        border:5rem;
+        border-color:black;
+    }
+}
+
+
+
+
+
